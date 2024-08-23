@@ -1,0 +1,22 @@
+.vote{
+    width: 90%;
+    max-width: 25rem;
+    
+}
+
+.vote form{
+    padding: 3px;
+}
+
+.vote label{
+    display: block;
+    text-align: left;
+}
+.vote input{
+    width: 100%;
+}
+
+.vote select{
+    width: 50%;
+    text-align: center;
+}
